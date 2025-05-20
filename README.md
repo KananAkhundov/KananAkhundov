@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KananAkhundov
 - 👀 I’m interested in Databases and C#
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# and linux-based things
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: Email me: akhundovmain@gmail.com
 - 😄 Pronouns: He/Him
