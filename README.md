@@ -10,3 +10,4 @@
 KananAkhundov/KananAkhundov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![roadmap.sh](https://roadmap.sh/card/wide/68372c931330a00f3f1fe646?variant=light)](https://roadmap.sh)
